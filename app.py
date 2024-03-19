@@ -1,5 +1,8 @@
 """
 Utiliza flask para recibir la imágen creada en local
+
+app.py
+Quim Delgado
 """
 
 from flask import Flask, request, jsonify
