@@ -1,6 +1,9 @@
 """
 Sirve la app de forma local para poder enviar la imágen creada.
 Utiliza gunicorn o waitress dependiendo el sistema operativo
+
+serveApp.py
+Quim Delgado
 """
 import os
 from app import app
