@@ -1,5 +1,8 @@
 """
 Busca totes les cameres disponibles en Windows
+
+findCameras.py
+Quim Delgado
 """
 
 import cv2
