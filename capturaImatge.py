@@ -1,6 +1,9 @@
 """
 Captura una imatge i la envia al servidor
 (modificar url)
+
+capturaImatge.py
+Quim Delgado
 """
 
 import face_recognition
